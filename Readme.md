@@ -7,6 +7,10 @@
   <img src="assets/demo.png" width="600"/>
 </p>
 
+## 🌐 Live Demo
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-resume-assistantt.streamlit.app/)
+
 Generate a fully customized resume, cover letter, and cold email using LLMs and Agentic AI — in one click.
 
 ## 🚀 Features
