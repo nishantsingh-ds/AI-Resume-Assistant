@@ -3,6 +3,10 @@
   <img src="assets/image.png" width="600"/>
 </p>
 
+<p align="center">
+  <img src="assets/demo.png" width="600"/>
+</p>
+
 Generate a fully customized resume, cover letter, and cold email using LLMs and Agentic AI — in one click.
 
 ## 🚀 Features
